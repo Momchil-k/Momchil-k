@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Momchil-k
+- 👀 I’m interested in C# coding
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on getting in PGEE Plovdiv
+- 📫 How to reach me- you can't.
